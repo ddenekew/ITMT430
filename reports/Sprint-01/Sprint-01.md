@@ -29,6 +29,8 @@ Place report here
 
 ## User/Admin/Anonymous Story Goes here
 
+<img src = "images/exp.JPG">
+<img src = "images/fend.JPG">
 This is text inter-sparsed with mockups/screenshots
 
 ## Atomic Goals for Sprint-02
