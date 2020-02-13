@@ -1,14 +1,14 @@
 # Sprint-01 Report
 
-## Team Number XX
+## Team Number 09
 
 Daniel Denekew
 UI/UX developer, Jr Java Developer
 
-Pablo Villagomes
+Pablo Villagomez
 IT Infrastructure and Security Analyst and Jr Java Developer
 
-Desmond MAir 
+Desmond Mair
 Project Manager and Jr Java Developer
 
 ## UI/UX Report
@@ -36,4 +36,3 @@ This is text inter-sparsed with mockups/screenshots
 ## Atomic Goals for Sprint-02
 
 List atomic goals here in ordered list, minimum 3 per category
-
