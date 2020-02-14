@@ -23,6 +23,10 @@ The language we will be using is Java as it is the language our group is most ex
 
 We decided that we will primarily develop this app for Android devices running Android OS, but may later expand to other platforms such as iOS. The reasoning behind this choice is ease of coding for Android through Android Studio, and that it is one of the most popular mobile device operating systems along with iOS. As for data storage, we will be utilizing cloud storage rather than physical servers as it is cheaper, easier to maintain and typically has no down time.
 
+
+
+<img src = "images/EntityRelationship.png">
+
 ## Developer and Security Assumptions
 
 One main security feature this app will contain is restriction of creating users. Profiles will only be able to be created using hawk emails provided by IIT. This not only prevents non-IIT students from creating an account, but also eliminates the possibility of the creation of multiple accounts by one person. Also, usernames and passwords will be encrypted to prevent unauthorized access to accounts.
