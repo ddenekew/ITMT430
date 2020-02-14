@@ -44,11 +44,11 @@ This app will firstly consist of a login screen where you either log in to an ex
 
 - If the user selects view profile, it will display their username, rating, groups that the user is a part of and study materials. The rating feature will work similarly to that of Uber, where users get rated by other peers based on their behavior, contribution and participation in the group. The rating feature as of right now is optional, meaning it is not mandatory for users to submit ratings, and will likely change to a different feature that does a similar job in a less toxic manner.
 
-<img src = "images/exp.JPG">
+<img src = "images/User-Experience.png">
 
 ## Admin Story
 
-<img src = "images/fend.JPG">
+<img src = "Backend-Workflow.png">
 
 ## Atomic Goals for Sprint-02
 
