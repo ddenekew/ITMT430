@@ -2,14 +2,16 @@
 
 ## Team Number 09
 
-Daniel Denekew UI/UX developer, Jr Java Developer
+Daniel Denekew *UI/UX Developer, Developer*
 
-Pablo Villagomez IT Infrastructure and Security Analyst and Jr Java Developer
+Pablo Villagomez *Operating systems and IT Infrastructure, Jr. Developer and Security*
 
-Desmond Mair Project Manager and Jr Java Developer
+Desmond Mair *Project Manager, Developer*
 
 
 ## UI/UX Report
+
+<img src = "images/AppScreens.png">
 
 Displayed in the diagram above is the first iteration of our mock-up UI. We decided to keep the UI clean, simple and easy to use to allow users to effortlessly navigate the application and perform whatever task they desire with ease. This communications app can be compared to Slack or Discord but is tailored specifically towards IIT students looking for study groups for their classes. Blackboard has a specific feature that allows students to connect with each other to form groups. However, Blackboard has not expounded on this feature and it hardly gets utilized by students due to difficulty finding the feature and a cluttered UI that makes it unpleasant to use.
 
@@ -20,6 +22,10 @@ The language we will be using is Java as it is the language our group is most ex
 ## IT Infrastructure Report
 
 We decided that we will primarily develop this app for Android devices running Android OS, but may later expand to other platforms such as iOS. The reasoning behind this choice is ease of coding for Android through Android Studio, and that it is one of the most popular mobile device operating systems along with iOS. As for data storage, we will be utilizing cloud storage rather than physical servers as it is cheaper, easier to maintain and typically has no down time.
+
+
+
+<img src = "images/EntityRelationship.png">
 
 ## Developer and Security Assumptions
 
