@@ -16,6 +16,8 @@ Desmond Mair
 
 ## UI/UX Report
 
+<img src = "images/AppScreens.png">
+
 Displayed in the diagram above is the first iteration of our mock-up UI. We decided to keep the UI clean, simple and easy to use to allow users to effortlessly navigate the application and perform whatever task they desire with ease. This communications app can be compared to Slack or Discord but is tailored specifically towards IIT students looking for study groups for their classes. Blackboard has a specific feature that allows students to connect with each other to form groups. However, Blackboard has not expounded on this feature and it hardly gets utilized by students due to difficulty finding the feature and a cluttered UI that makes it unpleasant to use.
 
 ## Developer Report
