@@ -48,6 +48,9 @@ This app will firstly consist of a login screen where you either log in to an ex
 
 ## Admin Story
 
+The admin will be able to archive accounts when students have graduated and no longer need to use our app. The admin is also able to suspend accounts in cases where a user may violate community standards. The suspension may be indefinitely or whatever length of time the admin deems necessary. The admin may also be able to modify user accounts if necessary. For example, the admin is able to reset passwords for users who forget their passwords. Lastly, the admin is able to provide admin privileges to other accounts in case their needs to be moderators in the app.
+
+
 <img src = "images/Backend-Workflow.png">
 
 ## Atomic Goals for Sprint-02
