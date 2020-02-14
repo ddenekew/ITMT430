@@ -65,12 +65,16 @@ The admin will be able to archive accounts when students have graduated and no l
 
 
 ### Junior Developer and Security
-- Explore how to restrict registration based on email host.
+- Explore how to restrict registration based on email hosts.
+- Research best practices for encryption
+- Research other security options for app
 
 ### Operating Systems and IT Infrastructure
-- Goal 1
-- Goal 2
-- Goal 3
+- Explore possible cloud storage options for app
+- Analyze possibility of having cross-platform app
+- Look into SQL schema corresponding to UI/UX diagram
+
+
 ### Project Manager
 - Prepare visual presentation.
 - Possible Kanban board such as Trello for future organization of tasks.
