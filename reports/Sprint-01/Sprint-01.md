@@ -52,4 +52,23 @@ This app will firstly consist of a login screen where you either log in to an ex
 
 ## Atomic Goals for Sprint-02
 
-List atomic goals here in ordered list, minimum 3 per category
+### UI/UX
+- Goal 1
+- Goal 2
+- Goal 3
+
+### Developer
+- Get familiar with Android Studio.
+
+
+### Junior Developer and Security
+- Explore how to restrict registration based on email host.
+
+### Operating Systems and IT Infrastructure
+- Goal 1
+- Goal 2
+- Goal 3
+### Project Manager
+- Prepare visual presentation.
+- Possible Kanban board such as Trello for future organization of tasks.
+- Survey data from IIT students to explore features to be added/removed.
