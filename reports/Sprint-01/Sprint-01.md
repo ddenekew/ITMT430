@@ -56,9 +56,9 @@ The admin will be able to archive accounts when students have graduated and no l
 ## Atomic Goals for Sprint-02
 
 ### UI/UX
-- Goal 1
-- Goal 2
-- Goal 3
+- Making sure website is customizable and easy to use
+- Understanding how it can be compatible with multiple browser
+- Clean design and effective color scheme
 
 ### Developer
 - Get familiar with Android Studio.
