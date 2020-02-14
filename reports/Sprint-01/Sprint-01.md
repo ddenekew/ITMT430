@@ -48,7 +48,7 @@ This app will firstly consist of a login screen where you either log in to an ex
 
 ## Admin Story
 
-<img src = "Backend-Workflow.png">
+<img src = "images/Backend-Workflow.png">
 
 ## Atomic Goals for Sprint-02
 
