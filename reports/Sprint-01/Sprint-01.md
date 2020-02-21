@@ -2,23 +2,12 @@
 
 ## Team Number 09
 
-<<<<<<< Updated upstream
 Daniel Denekew *UI/UX Developer, Developer*
 
 Pablo Villagomez *Operating systems and IT Infrastructure, Jr. Developer and Security*
 
 Desmond Mair *Project Manager, Developer*
 
-=======
-Daniel Denekew
-UI/UX developer, Jr Java Developer, MySQL Developer
-
-Pablo Villagomes
-IT Infrastructure and Security Analyst, MySQL Developer and Jr Java Developer
-
-Desmond MAir 
-Project Manager, MySQL Developer and Jr Java Developer
->>>>>>> Stashed changes
 
 ## UI/UX Report
 
@@ -53,7 +42,6 @@ This app will firstly consist of a login screen where you either log in to an ex
 - If the user selects to create a group, it will prompt them to select a class they would like to create the group for. It will then prompt the user to enter a location and timeframe for when and where the group will meet (future iterations may include an online chatroom for the groups).
 
 
-<<<<<<< Updated upstream
 - If the user selects view profile, it will display their username, rating, groups that the user is a part of and study materials. The rating feature will work similarly to that of Uber, where users get rated by other peers based on their behavior, contribution and participation in the group. The rating feature as of right now is optional, meaning it is not mandatory for users to submit ratings, and will likely change to a different feature that does a similar job in a less toxic manner.
 
 <img src = "images/User-Experience.png">
@@ -64,10 +52,6 @@ The admin will be able to archive accounts when students have graduated and no l
 
 
 <img src = "images/Backend-Workflow.png">
-=======
-<img src = "images/exp.JPG">
-<img src = "images/fend.JPG">
->>>>>>> Stashed changes
 
 ## Atomic Goals for Sprint-02
 
