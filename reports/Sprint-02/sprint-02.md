@@ -20,7 +20,7 @@ https://trello.com/b/utYoK6IF/itm430-team-09
 
 https://itmt-430-team9.slack.com/archives/CSQ6B7DS6
 
-## Atomic Goals for Sprint-03
+### Atomic Goals for Sprint-03
 
 - Connection to Database via Nodejs and MongoDB or MySQL and Phpmyadmin.
 - Add the user layout pages.
