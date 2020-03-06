@@ -27,18 +27,3 @@ Desmond Mair *Project Manager, Developer*
 
 
 ## Atomic Goals for Sprint-03
-
-### UI/UX
-
-
-### Developer
-
-
-### Junior Developer and Security
-
-
-### Operating Systems and IT Infrastructure
-
-
-
-### Project Manager
