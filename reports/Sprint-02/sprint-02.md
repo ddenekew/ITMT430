@@ -25,12 +25,6 @@ Desmond Mair *Project Manager, Developer*
 
 
 
-## User Story
-
-
-## Admin Story
-
-
 
 ## Atomic Goals for Sprint-03
 
