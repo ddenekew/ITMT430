@@ -11,4 +11,4 @@ ddenekew@hawk.iit.edu
 dmair@hawk.iit.edu
 
 
-## added github notifications
+## added github notifica
