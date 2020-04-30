@@ -1,0 +1,23 @@
+{
+  "name": "studyhawk",
+  "version": "1.0.0",
+  "description": "Private Repo for Class Work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illinoistech-itm/2020-team09f.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/illinoistech-itm/2020-team09f/issues"
+  },
+  "homepage": "https://github.com/illinoistech-itm/2020-team09f#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
