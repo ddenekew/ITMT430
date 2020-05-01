@@ -2,7 +2,7 @@
 
 ## Team Number 09
 
-Daniel Denekew *IT Infrastructure, Jr. Developer*
+Daniel Denekew *IT Infrastructure*
 
 Pablo Villagomez *Project Manager, Developer*
 
@@ -27,29 +27,38 @@ https://github.com/illinoistech-itm/2020-team09f/commit/aa5cedf4de3632bdc715f0a4
 
 ### Infrastructure
 
-- List all tasks that you have completed along with the artifacts proving they are complete (GitHub
-commit URL and Project Management artifact screenshot)
-- Create a virtual machine based Load-Balancer to route between two copies of the front end virtual
-machines (For example: Nginx)
-- Include a script that will build each of these discrete systems as virtual machines automatically,
-include instructions how to do this in the install.md located in the root of the GitHub repo
-  - At a minimum of 4 systems: Load Balancer, Frontend 1, Frontend 2, Backend-datastore
-- Include in the Diagrams folder a diagram of all of the discrete servers and their IP addresses in
-your application (All systems need to be on a discrete server)
-- Include a list of external packages per system being installed for this application via package
-manager that were added or removed since sprint-04
-
-
-### Junior Developer
-
-- List all tasks that you have completed along with the artifacts proving they are complete (GitHub
-commit URL and Project Management artifact screenshot)
-- Create a feature and functionality on the Admin portal of your site that allows an admin to export
-(or dump) the entire database to a local file
-- For the 15 “test” user accounts, create 2 actions per user upon automated deploy of the system
-  - For instance, have each user buy two things, or make two posts, or two uploaded photos, or
-flip two buttons
-- Show from the code the firewall ports opened on each discrete vm
+- A load balancer monitors a given port on each VM and only distributes traffic to an operational VM.
+- By defining a front-end IP configuration that contains one or more public IP addresses. - This front-end IP configuration allows the load balancer and applications to be accessible over the Internet.
+- Virtual machines connect to a load balancer using their virtual network interface card (NIC). To distribute traffic to the VMs, a back-end address pool contains the IP addresses of the virtual (NICs) connected to the load balancer.
+- To control the flow of traffic, we define load balancer rules for specific ports and protocols that map to our VMs
+- Created two Virtual box, Ubuntu-Vanilla & Centos-Vanilla. Was able to edit using vim and modified the host Ip addr
+<img src = "images/VM.JPG">
+- The virtual box physical appearance while running.
+<img src = "images/VMW.JPG">
+-	Building the Centos-vanilla Vbox
+<img src = “images/Centos-V.JPG”>
+-	Building the Centos-Vanilla IP addr
+<img src = “images/Centos-Vip.JPG”>
+-	Centos pings the ubuntu ip address
+<img src = “images/Centos-Vping.JPG”>
+-	However, we were unable to establish the connection of the database through the virtual machine.
+-	The idea of creating a virtual machine based Load-Balancer to route between two copies of the front end virtual machines was suppose to 
+-	Inversely pings Centos-Vanilla from Ubuntu-vanilla
+<img src = “images/UV-CVP.JPG”>
+-	Modified and added the ubuntu localhost ip addr
+<img src = “images/UV-IP.JPG”>
+- Installed nginx
+<img src = “images/UV-ng.JPG”>
+- The localhost is established through nginx
+<img src = “images/Ngx.JPG”>
+- Updates the virtual machine as needed
+<img src = “images/UV-UD.JPG”>
+- Sample of discrete systems
+<img src = "images/AppGateway.png">
+- The sample virtual machine based Load-Balancer to route between two copies of the front end virtual machines
+<img src = "images/lb.png">
+- A sample diagram of all of the discrete servers and their IP addresses in your application
+<img src = "images/pas.png">
 
 ### Project Manager
 
