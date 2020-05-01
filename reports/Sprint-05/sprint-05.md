@@ -11,10 +11,42 @@ Desmond Mair *UI/UX Developer, Developer*
 
 ### UI/UX Artifacts
 
-- List all tasks that you have completed along with the artifacts proving they are complete (GitHub commit URL and Project Management artifact screenshot)
-- Show (screenshot with highlights) all UI/UX components added since sprint-04 for the User Story and give a short explanation of their function
-- Show (screenshot with highlights) all UI/UX components added since sprint-04 for the Admin Story and/or Anonymous user and give a short explanation of their function
-- Add screenshot of a minimum of 5 additional GitHub issues/bugs reported, assigned, and resolved
+- Front end HTML templates were created for both the user and admin story including custom CSS and Javascript, and a custom login page. These items were customized with color palettes and logos representing IIT. Snapshots of these pages can be seen below:
+- Main landing page:
+<img src = "images/Screenshots of website (user)/page 1.png">
+
+- Login page:
+<img src = "images/Screenshots of website (user)/page 2.png">
+
+- Search/Create group page:
+<img src = "images/Screenshots of website (user)/page 3.png">
+
+- Create group form page:
+<img src = "images/Screenshots of website (user)/page 4.png">
+
+- Current groups page:
+<img src = "images/Screenshots of website (user)/page 5.png">
+
+- Contact info page:
+<img src = "images/Screenshots of website (user)/page 6.png">
+
+- The admins will have the exact same pages with some minor adjustments including a page to view all viewers and options to edit and delete groups.
+- Users page (admin):
+<img src = "images/Screenshots of website (admin)/page 1.png">
+
+- Group/Users page:
+<img src = "images/Screenshots of website (admin)/page 2.png">
+
+- These pages were designed based on the wireframes for the user/admin story in the diagrams folder:
+[Link to diagrams folder](https://github.com/illinoistech-itm/2020-team09f/tree/master/StudyHawk/diagrams)
+
+- Below are screenshots of the commits for the wireframe images, login page, and main page:
+<img src = "images/Screenshots of commits (DESMOND)/1.png">
+<img src = "images/Screenshots of commits (DESMOND)/2.png">
+<img src = "images/Screenshots of commits (DESMOND)/3.png">
+<img src = "images/Screenshots of commits (DESMOND)/4.png">
+<img src = "images/Screenshots of commits (DESMOND)/5.png">
+<img src = "images/Screenshots of commits (DESMOND)/6.png">
 
 
 ### Developer
