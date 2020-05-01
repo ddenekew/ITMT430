@@ -36,23 +36,23 @@ https://github.com/illinoistech-itm/2020-team09f/commit/aa5cedf4de3632bdc715f0a4
 - The virtual box physical appearance while running.
 <img src = "images/VMW.JPG">
 -	Building the Centos-vanilla Vbox
-<img src = “images/Centos-V.JPG”>
+<img src = "images/Centos-V.JPG">
 -	Building the Centos-Vanilla IP addr
-<img src = “images/Centos-Vip.JPG”>
+<img src = "images/Centos-Vip.JPG">
 -	Centos pings the ubuntu ip address
-<img src = “images/Centos-Vping.JPG”>
+<img src = "images/Centos-Vping.JPG">
 -	However, we were unable to establish the connection of the database through the virtual machine.
 -	The idea of creating a virtual machine based Load-Balancer to route between two copies of the front end virtual machines was suppose to 
 -	Inversely pings Centos-Vanilla from Ubuntu-vanilla
-<img src = “images/UV-CVP.JPG”>
+<img src = "images/UV-CVP.JPG">
 -	Modified and added the ubuntu localhost ip addr
-<img src = “images/UV-IP.JPG”>
+<img src = "images/UV-IP.JPG">
 - Installed nginx
-<img src = “images/UV-ng.JPG”>
+<img src = "images/UV-ng.JPG">
 - The localhost is established through nginx
-<img src = “images/Ngx.JPG”>
+<img src = "images/Ngx.JPG">
 - Updates the virtual machine as needed
-<img src = “images/UV-UD.JPG”>
+<img src = "images/UV-UD.JPG">
 - Sample of discrete systems
 <img src = "images/AppGateway.png">
 - The sample virtual machine based Load-Balancer to route between two copies of the front end virtual machines
