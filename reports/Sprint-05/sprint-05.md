@@ -1,8 +1,13 @@
 # Sprint-05 Written Report
 
-## Team Number XX
+## Team Number 09
 
-List team members and their roles this sprint
+Daniel Denekew *IT Infrastructure, Jr. Developer*
+
+Pablo Villagomez *Project Manager, Developer*
+
+Desmond Mair *UI/UX Developer, Developer*
+
 
 ### UI/UX Artifacts
 
@@ -10,6 +15,15 @@ List team members and their roles this sprint
 - Show (screenshot with highlights) all UI/UX components added since sprint-04 for the User Story and give a short explanation of their function
 - Show (screenshot with highlights) all UI/UX components added since sprint-04 for the Admin Story and/or Anonymous user and give a short explanation of their function
 - Add screenshot of a minimum of 5 additional GitHub issues/bugs reported, assigned, and resolved
+
+
+### Developer
+
+- We attempted to link our front-end with our back-end, however, we were not successful as we struggled with setting up our database and server.
+- The following link is for the commits of our first attempt of setting up our database and server using MongoDB/Node.js.
+https://github.com/illinoistech-itm/2020-team09f/commit/aa5cedf4de3632bdc715f0a4e278def81937744c
+- They include the required dependencies, but other team members were not able to set up the server/database on their end. Afterwards, we attempted to build our server and database based on the example given by Professor Jeremy as shown in our infrastructure report.
+
 
 ### Infrastructure
 
@@ -25,15 +39,6 @@ your application (All systems need to be on a discrete server)
 - Include a list of external packages per system being installed for this application via package
 manager that were added or removed since sprint-04
 
-### Developer
-
-- List all tasks that you have completed along with the artifacts proving they are complete (GitHub
-commit URL and Project Management artifact screenshot)
-- Show in the scripts required to build the Infrastructure, how you added the ability to clone
-application source code from your private repo to your local application
-- Show the creation of a non-root Database user and a brief explanation the reason for the permissions
-granted
-- Show that database encryption at rest is enabled from the code
 
 ### Junior Developer
 
@@ -48,6 +53,4 @@ flip two buttons
 
 ### Project Manager
 
-- List any detailed assumptions your team made explaining deliverable context as needed
-- Instructor will execute instructions in your install.md file and recreate your live demonstration,
-so test, test, test.
+In terms of our final deliverable, we have our front-end completed. The front-end depicts our intended user story as well as our admin story. The forefront was created to accurately represent the Illinois Tech spirit and it is responsive to any device or screen size. However, as great as our front-end might be, we have not been able to add back-end functionality to make it all complete. We struggled to link our database/server to the front-end. At first, we attempted to follow our original goal of using MongoDB/Node.js, but failed at making it run with the front-end. So then we tried to follow the examples given by Prof Jeremy, but were also unsuccessful at getting it to link to our front end. Therefore, we do not have a live demonstration we can recreate because our final deliverable is not executable.  
